@@ -1,0 +1,9 @@
+{
+	"complilerOptions": {
+		"sourceMap": true,
+		"watch": true
+	},
+	"files":[
+		"variables.ts"
+	]
+}
