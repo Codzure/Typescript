@@ -4,6 +4,6 @@
 		"watch": true
 	},
 	"files":[
-		"variables.ts"
+		"strings.ts"
 	]
 }
